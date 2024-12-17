@@ -6,6 +6,8 @@
 ```   
 
 # Enable Network Policy in EKS
+<br></br>
+![image](https://github.com/user-attachments/assets/991a4d67-2c56-4b88-a7a3-3d500c0d35ff)
 
 ![image](https://github.com/user-attachments/assets/2d5d42ee-e39f-4083-928e-44b2880903c7)
 
